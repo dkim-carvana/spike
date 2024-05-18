@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spike/static/css/main.631ff797.css",
+    "main.js": "/spike/static/js/main.37a77908.js",
+    "index.html": "/spike/index.html",
+    "main.631ff797.css.map": "/spike/static/css/main.631ff797.css.map",
+    "main.37a77908.js.map": "/spike/static/js/main.37a77908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.631ff797.css",
+    "static/js/main.37a77908.js"
+  ]
+}
