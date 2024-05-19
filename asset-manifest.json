@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/spike/static/css/main.f0552ced.css",
-    "main.js": "/spike/static/js/main.5cd1c087.js",
-    "static/media/logo.svg": "/spike/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/spike/static/js/main.2b7ac01b.js",
     "index.html": "/spike/index.html",
     "main.f0552ced.css.map": "/spike/static/css/main.f0552ced.css.map",
-    "main.5cd1c087.js.map": "/spike/static/js/main.5cd1c087.js.map"
+    "main.2b7ac01b.js.map": "/spike/static/js/main.2b7ac01b.js.map"
   },
   "entrypoints": [
     "static/css/main.f0552ced.css",
-    "static/js/main.5cd1c087.js"
+    "static/js/main.2b7ac01b.js"
   ]
 }
