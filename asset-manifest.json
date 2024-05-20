@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/spike/static/css/main.84b7c602.css",
-    "main.js": "/spike/static/js/main.0bc92886.js",
+    "main.css": "/spike/static/css/main.32864e96.css",
+    "main.js": "/spike/static/js/main.6c26611b.js",
     "index.html": "/spike/index.html",
-    "main.84b7c602.css.map": "/spike/static/css/main.84b7c602.css.map",
-    "main.0bc92886.js.map": "/spike/static/js/main.0bc92886.js.map"
+    "main.32864e96.css.map": "/spike/static/css/main.32864e96.css.map",
+    "main.6c26611b.js.map": "/spike/static/js/main.6c26611b.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b7c602.css",
-    "static/js/main.0bc92886.js"
+    "static/css/main.32864e96.css",
+    "static/js/main.6c26611b.js"
   ]
 }

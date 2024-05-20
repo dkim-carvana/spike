@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.84b7c602.css","mappings":"AAAA,QACI,aAAwB,CACxB,qDAA4D,CAC5D,eAAgB,CAChB,WACF","sources":["components/header/Header.css"],"sourcesContent":[".header {\r\n    color: rgb(42, 161, 121);\r\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\r\n    font-weight: 900;\r\n    margin: 20px;\r\n  }"],"names":[],"sourceRoot":""}
